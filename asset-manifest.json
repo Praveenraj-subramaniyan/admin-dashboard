@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swiggy-client/static/css/main.f6dc1820.css",
+    "main.js": "/swiggy-client/static/js/main.37f9dfce.js",
+    "static/js/787.ff98dd28.chunk.js": "/swiggy-client/static/js/787.ff98dd28.chunk.js",
+    "index.html": "/swiggy-client/index.html",
+    "main.f6dc1820.css.map": "/swiggy-client/static/css/main.f6dc1820.css.map",
+    "main.37f9dfce.js.map": "/swiggy-client/static/js/main.37f9dfce.js.map",
+    "787.ff98dd28.chunk.js.map": "/swiggy-client/static/js/787.ff98dd28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6dc1820.css",
+    "static/js/main.37f9dfce.js"
+  ]
+}
